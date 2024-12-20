@@ -1,1 +1,2 @@
-hello world
+hello 
+message from branch2
